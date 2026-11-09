@@ -62,19 +62,19 @@ The project uses Python's standard library and SQLite, so no third-party Python 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/DrewHinesUCSC/FinalProjectCIS117.git>
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <repository-directory>
+   cd <FinalProjectCIS117>
    ```
 
 3. Run the application:
 
    ```bash
-   python <Gutenberg_Project>.py
+   python3 <Gutenberg_Project>.py
    ```
 
 
